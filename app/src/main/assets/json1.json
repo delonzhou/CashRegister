@@ -1,0 +1,23 @@
+[
+    {
+        "amount": 3,
+        "discount": 0,
+        "name": "可口可乐",
+        "price": 3,
+        "quantityUnit": "瓶"
+    },
+    {
+        "amount": 5,
+        "discount": 0,
+        "name": "羽毛球",
+        "price": 1,
+        "quantityUnit": "个"
+    },
+    {
+        "amount": 2,
+        "discount": 0,
+        "name": "苹果",
+        "price": 5.5,
+        "quantityUnit": "斤"
+    }
+]
